@@ -1,1 +1,28 @@
 Accept,hazardous materials and inspection training services,1982,unknown,medium,low,medium,high,yes,low,low,10-20,low,low,medium,service,yes,low
+Accept,commercial cleaning services,1983,unknown,low,medium,medium,high,yes,low,low,10-20,medium,low,medium,service,yes,medium
+Accept,water tank services,1962,unknown,medium,low,medium,high,yes,low,low,10-20,medium,medium,medium,service,no,low
+Accept,oil and propane delivery services,1981,unknown,low,medium,low,high,yes,medium,low,10-20,medium,low,medium,product,no,low
+Accept,energy inspection services,1986,unknown,medium,low,medium,medium,no,medium,medium,10-20,high,medium,medium,service,yes,high
+Reject,technical and marketing ,unknown,7.4,low,medium,medium,high,yes,low,low,50-100,medium,medium,medium,service,yes,medium
+Reject,residential septic service,1995,0.5,low,low,medium,high,yes,low,low,10-20,medium,medium,medium,service,yes,high
+Reject,residential air conditioning,1980,4.3,medium,low,low,high,yes,low,low,100-200,low,low,high,service,no,low
+Reject,recycling,1992,4.4,low,low,high,high,yes,low,low,50-100,medium,medium,medium,service,yes,medium
+Reject,water environment testing,1979,12,medium,medium,medium,high,yes,low,medium,50-100,medium,medium,medium,service,yes,medium
+Reject,staffing service,1993,5600,high,high,high,medium,yes,low,low,5000-10000,medium,medium,high,service,yes,medium
+Reject,hazardous waste management,2008,0.5,medium,low,medium,high,yes,medium,low,unknown,medium,medium,medium,service,yes,medium
+Reject,home restoration,1992,0.5,low,low,medium,high,yes,medium,low,unknown,medium,medium,medium,service,yes,medium
+Reject,home restoration,1974,0.5,medium,medium,medium,high,yes,medium,low,50-100,medium,medium,medium,service,yes,medium
+Reject,manufacturer lightning and surge protection ,1991,0.5,low,low,low,high,yes,low,low,unknown,low,medium,medium,product,no,low
+Reject,septic tank repair,1971,0.5,low,low,low,high,yes,low,low,10-20,medium,medium,medium,service,yes,medium
+Reject,retail used equipment shelving conveyor rack,1995,0.5,low,low,low,high,yes,medium,low,10-20,low,low,high,product,yes,low
+Reject,environmental construction consulting,1981,0.5,medium,low,medium,high,yes,medium,low,10-50,low,low,medium,service,yes,low
+Reject,manufacturer fire protection products ,1939,37,medium,medium,medium,high,yes,medium,low,100-200,medium,medium,medium,product,no,low
+Reject,painting coating fire proof,2009,50,medium,medium,medium,high,yes,medium,low,500-1000,medium,medium,medium,service,no,low
+Reject,industrial container,1946,22,medium,medium,low,high,yes,low,low,50-100,medium,low,high,product,no,low
+Reject,national trade association oil and gas,1919,73,low,medium,low,high,yes,low,low,1000-2000,medium,medium,low,service,yes,low
+Reject,water chemical sensor filter,1990,7,medium,low,low,high,yes,medium,low,50-100,low,low,high,product,no,low
+Reject,inspection audit testing,2002,14,low,medium,low,high,yes,medium,low,100-200,high,medium,medium,service,yes,high
+Reject,sell generator and power,1959,7.9,medium,low,low,high,yes,medium,low,10-50,low,low,high,product,no,low
+Reject,sell used forklift trucks,1960,0.5,low,low,low,high,yes,medium,low,50-100,low,low,high,product,no,low
+Reject,nonprofit water safety quality education,1881,21,low,medium,low,high,yes,medium,low,100-200,medium,medium,medium,service,yes,medium
+Reject,Sell service industrial mixer,1949,5,medium,low,low,high,yes,medium,low,50-100,high,medium,medium,service,yes,medium
